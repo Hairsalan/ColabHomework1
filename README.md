@@ -26,12 +26,15 @@ Video Link: https://youtu.be/PAfe8Ol-Z7c
 
 7. Colab 7
 Colab Link: https://colab.research.google.com/drive/104kd7TLIO9oW-s4PX_fjByvBX_dG6-1W?usp=sharing
+Video Link: https://youtu.be/a8NQdWwoUQw
 
 8. Colab 8
 Colab Link: https://colab.research.google.com/drive/1cMU_DMF7Y_AAGBdgwihkrln7B65vVooy?usp=sharing
+Video Link: https://youtu.be/Sjq61eU14C4
 
 9. Colab 9
 Colab Link: https://colab.research.google.com/drive/1kAzIt3UurPUJEd7xhuizcefH6yerCZCa?usp=sharing
+Video Link: https://youtu.be/Sjq61eU14C4
 
 10. Colab 10
 Colab Link: https://colab.research.google.com/drive/1poM7SuNMmGA6qhgvvLRCgLDPN7XTGAQN?usp=sharing
